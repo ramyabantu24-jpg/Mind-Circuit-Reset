@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: banturamya/batch13:21
+        image: banturamya/mindcircuit:21
         ports:
         - containerPort: 8080
 
